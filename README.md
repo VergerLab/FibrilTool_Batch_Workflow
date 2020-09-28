@@ -1,7 +1,7 @@
 Automated version of the FibrilTool ImageJ/Fiji macro
 ================
 ### FibrilTool_Batch_Workflow 
-is a version FibrilTool_Batch This version has been slightly modified by Stéphane Verger 
+is a version FibrilTool_Batch which has been slightly modified by Stéphane Verger 
 to ease it's incorporation into a specific image analysis workflow. See https://github.com/VergerLab/MT_Angle2Ablation_Workflow
 
 
