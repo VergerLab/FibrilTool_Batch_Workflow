@@ -62,12 +62,9 @@ var lwidth = 2;
 
 var pi = 3.14159265;
 
-
-macro "Fibril Tool - C059L11eeL14beL41ebL178eL71e8L1a5eLa1e5" {
-
 print("\\Clear");
 
-dir = getDirectory("Choose a folder.")
+dir = getDirectory("Choose a folder")
 Folder_name = File.getName(dir);
 list = getFileList(dir);
 
